@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'lato_black';
+    src: url('latotr-black-webfont.eot');
+    src: url('latotr-black-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-black-webfont.html') format('woff2'),
+         url('latotr-black-webfont.woff') format('woff'),
+         url('latotr-black-webfont.ttf') format('truetype'),
+         url('latotr-black-webfont.svg#lato_trblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_black_italic';
+    src: url('latotr-blackitalic-webfont.eot');
+    src: url('latotr-blackitalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-blackitalic-webfont.html') format('woff2'),
+         url('latotr-blackitalic-webfont.woff') format('woff'),
+         url('latotr-blackitalic-webfont.ttf') format('truetype'),
+         url('latotr-blackitalic-webfont.svg#lato_trblack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_bold';
+    src: url('latotr-bold-webfont.eot');
+    src: url('latotr-bold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-bold-webfont.html') format('woff2'),
+         url('latotr-bold-webfont.woff') format('woff'),
+         url('latotr-bold-webfont.ttf') format('truetype'),
+         url('latotr-bold-webfont.svg#lato_trbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_trbold_italic';
+    src: url('latotr-bolditalic-webfont.eot');
+    src: url('latotr-bolditalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-bolditalic-webfont.html') format('woff2'),
+         url('latotr-bolditalic-webfont.woff') format('woff'),
+         url('latotr-bolditalic-webfont.ttf') format('truetype'),
+         url('latotr-bolditalic-webfont.svg#lato_trbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_hairline';
+    src: url('latotr-hairline-webfont.eot');
+    src: url('latotr-hairline-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-hairline-webfont.html') format('woff2'),
+         url('latotr-hairline-webfont.woff') format('woff'),
+         url('latotr-hairline-webfont.ttf') format('truetype'),
+         url('latotr-hairline-webfont.svg#lato_trhairline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_hairline_italic';
+    src: url('latotr-hairlineitalic-webfont.eot');
+    src: url('latotr-hairlineitalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-hairlineitalic-webfont.html') format('woff2'),
+         url('latotr-hairlineitalic-webfont.woff') format('woff'),
+         url('latotr-hairlineitalic-webfont.ttf') format('truetype'),
+         url('latotr-hairlineitalic-webfont.svg#lato_trhairline_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_italic';
+    src: url('latotr-italic-webfont.eot');
+    src: url('latotr-italic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-italic-webfont.html') format('woff2'),
+         url('latotr-italic-webfont.woff') format('woff'),
+         url('latotr-italic-webfont.ttf') format('truetype'),
+         url('latotr-italic-webfont.svg#lato_tritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_light';
+    src: url('latotr-light-webfont.eot');
+    src: url('latotr-light-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-light-webfont.html') format('woff2'),
+         url('latotr-light-webfont.woff') format('woff'),
+         url('latotr-light-webfont.ttf') format('truetype'),
+         url('latotr-light-webfont.svg#lato_trlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_light_italic';
+    src: url('latotr-lightitalic-webfont.eot');
+    src: url('latotr-lightitalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-lightitalic-webfont.html') format('woff2'),
+         url('latotr-lightitalic-webfont.woff') format('woff'),
+         url('latotr-lightitalic-webfont.ttf') format('truetype'),
+         url('latotr-lightitalic-webfont.svg#lato_trlight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lato_regular';
+    src: url('latotr-regular-webfont.eot');
+    src: url('latotr-regular-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('latotr-regular-webfont.html') format('woff2'),
+         url('latotr-regular-webfont.woff') format('woff'),
+         url('latotr-regular-webfont.ttf') format('truetype'),
+         url('latotr-regular-webfont.svg#lato_trregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
